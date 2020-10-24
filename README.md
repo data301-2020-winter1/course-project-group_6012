@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{type here}
+{In this project, we hope to compare strength and weaknesses of universities based on the custom criterias. Since we are students, we are interested how well our university, UBCO, is compared to others. We want see what is makes a university to have a high alumni employement rate. We believe our dataset can be used to build auser-facing Dashboard. }
 
 ## Describe your dataset in about 150-200 words
 
@@ -23,4 +23,5 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+{https://cwur.org/methodology/preprint.pdf
+https://www.datapine.com/blog/data-dashboards-definition-examples-templates/}
