@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{In this project, we hope to compare strength and weaknesses of universities based on the custom criterias. Since we are students at UBC, we are interested in seeing how well our university is compared to others. One particular question we are interested in is what indicators make a university have a high alumni employement rate. We believe our dataset can be used to build auser-facing Dashboard. }
+{In this project, we hope to compare strength and weaknesses of universities based on the custom criterias. Since we are students at UBC, we are interested in seeing how well our university is compared to others. One particular question we are interested in is what indicators make a university have a high alumni employement rate. We believe our dataset can be used to build user-facing Dashboard. }
 
 ## Describe your dataset in about 150-200 words
 
