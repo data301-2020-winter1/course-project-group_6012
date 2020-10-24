@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Amrit: I'm a third year cosc student thats simply learning about tech!
-- Person 2: one sentence about you!
+- Aruzhan: math major yay interested in abstract algebra (sort of lol)
 - Person 3: one sentence about you!
 
 ## References
