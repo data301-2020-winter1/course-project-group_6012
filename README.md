@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Amrit: I'm a third year cosc student thats simply learning about tech!
 - Aruzhan: math major yay interested in abstract algebra (sort of lol)
-- Person 3: one sentence about you!
+- Owen: I'm a fourth year HMKN student interested in learning data processing and analysis techniques for use in research.
 
 ## References
 
