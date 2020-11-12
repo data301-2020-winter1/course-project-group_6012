@@ -21,5 +21,5 @@ The “World University Rankings” dataset is provided by the Center for World 
 
 ## References
 
-{https://cwur.org/methodology/preprint.pdf
-https://www.datapine.com/blog/data-dashboards-definition-examples-templates/}
+1. https://cwur.org/methodology/preprint.pdf
+2. https://www.datapine.com/blog/data-dashboards-definition-examples-templates/
