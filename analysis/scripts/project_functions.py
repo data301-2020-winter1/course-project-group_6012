@@ -11,9 +11,12 @@ def load_and_process(URL):
             df.iloc[i,14] = df.iloc[i,12] - (score_sum_2014/1000)
         else:
             df.iloc[i,14] = df.iloc[i,12] - (score_sum_2015/1000)
+            
     def highlight_cols(x): #highlighting important columns
         df = x.copy() # copy new df 
         df.loc[:, :] = 'background-color: white'  # change background to white
         df[['world_rank', 'alumni_employment']] = 'background-color: yellow' # change world rank and alumni employment column to yellow
         return df  # return new df
     display(df.style.apply(highlight_cols, axis = None))
+    
+    return df
