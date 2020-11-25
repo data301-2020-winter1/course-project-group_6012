@@ -17,6 +17,6 @@ def load_and_process(URL):
         df.loc[:, :] = 'background-color: white'  # change background to white
         df[['world_rank', 'alumni_employment']] = 'background-color: yellow' # change world rank and alumni employment column to yellow
         return df  # return new df
-    display(df.style.apply(highlight_cols, axis = None))
+    # display(df.style.apply(highlight_cols, axis = None)) #if someone wants the dataset displyed they can use this
     
     return df
